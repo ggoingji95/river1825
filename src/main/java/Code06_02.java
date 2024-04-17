@@ -6,7 +6,6 @@ public class Code06_02 {
             for(k=1; k<=9; k++){
                 System.out.println(i+"*"+k+"="+(i*k));
             }
-
         }
     }
 }
